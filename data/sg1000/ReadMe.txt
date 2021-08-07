@@ -1,0 +1,1 @@
+Put SG-1000 roms in here. File extension: '.sg'.
